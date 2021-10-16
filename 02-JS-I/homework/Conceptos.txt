@@ -1,0 +1,7 @@
+Una variable es una caracterisitica que puede adquirir diferentes valores dependiendo de su tipo.
+Los strings son cadenas de caracteres en donde usualmente se almacena texto.
+Las funciones se usan para describir una secuencia de ordenes y asi ahorrar lineas de codigo.
+Cumplen una tarea especifica. Un argumento representa el valor que se pasa a un parámetro de procedimiento cuando se llama a la funcion. 
+Return devuelve el parametro que se le pasa.
+Las declaraciones if son procedimientos que se ejecutan siempre y cuando se cumpla una condicion.
+Los valores booleanos se pueden asignar a una variable para saber si algo es verdadero o falso.
