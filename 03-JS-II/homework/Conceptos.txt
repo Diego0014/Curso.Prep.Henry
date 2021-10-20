@@ -1,0 +1,5 @@
+El ciclo for es una bucle que se utiliza para repetir un proceso una y otra vez hasta encontrar lo que
+buscamos.
+operadores logicos && (AND) este devuelve true siempre y cuando las dos condiciones sean true.
+|| (OR) devuelve true cuando una de las condiciones es true y false si las dos son false.
+! (NOT) todo lo que sigue despues de este operador es negada(se invierte) ej !true devuelve false.
