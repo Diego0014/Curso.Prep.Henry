@@ -1,0 +1,2 @@
+Los arrays son "contenedores de datos", se pueden alamcenar cualquier tipo de dato en forma de matriz 
+en la que podemos acceder a ellas de acuerdo a su posicion.
