@@ -1,0 +1,5 @@
+Prototype: es una forma de ahorrar espacio en memoria "reutilizando codigo" mediante modelos o prototipos
+de objetos que contengan las mismas características.
+
+Constructores de clases: son códigos que se ejecutan cuando se crea un 
+objeto de un tipo determinado.
