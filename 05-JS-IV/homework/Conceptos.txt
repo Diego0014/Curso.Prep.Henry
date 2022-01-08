@@ -1,0 +1,17 @@
+Objetos: son contenedores de de datos, a diferencia de los arrays que contienen informacion
+relacionada una con otra, estas contienen mucha información sobre una sola cosa.
+
+Propiedades: es una asociación entre una nombre(key) y un valor(value) dentro de un objeto.
+Estas también pueden almacenar funciones, en donde pasa a denominarse métodos.
+
+Métodos: como bien dijimos en el punto anterior, los métodos son propiedades que almacenan funciones
+dentro de un objeto.
+
+Bucle for...in: se utiliza para iterar por cada clave de un objeto y devuelve su valor. 
+Se declara utilizando for y entre paréntesis delacramos una variable seguido de la palabra in y el nombre
+del objeto.
+
+Notación de puntos vs notación de corchetes: la notación por puntos en un objeto se utiliza cuando usamos
+el nombre del objeto seguido por un punto y la clave a la que queremos acceder, mientras que en la 
+notación de corchetes se escribe el nombre y entre corchetes la clave de dicho objeto.
+
