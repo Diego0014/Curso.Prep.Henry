@@ -1,0 +1,2 @@
+Callbacks: se denomina así al proceso de pasar una función como argumento dentro de otra función.
+Se pueden llamar en cualquier momento y pasar argumentos dentro de otra función.
